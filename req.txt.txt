@@ -1,0 +1,9 @@
+scipy==1.7.3
+Pillow==9.4.0
+numpy==1.21.6
+opencv-contrib-python==4.7.0.68
+opencv-python==4.7.0.68
+matplotlib==3.5.3
+mediapipe==0.9.0.1
+imutils==0.5.4
+dlib==19.24.0
