@@ -1,5 +1,11 @@
 # Baby_Monitoring
 
+# How to Run
+Simply execute the following command.
+```
+python run.py
+```
+
 
 
 # Results
